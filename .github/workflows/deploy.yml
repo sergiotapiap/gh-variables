@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: 
+      MONGODB_CLUSTER_ADDRESS: cluster0.yk26jm0.mongodb.net
       MONGODB_USERNAME: stapia_db_user
       MONGODB_PASSWORD: iR9jQ3BL0zoauCZZ
       PORT: 8080
